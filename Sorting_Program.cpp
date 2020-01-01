@@ -1,8 +1,6 @@
 /*
 Taras Zherebetskyy
 
-CSI 330
-
 file:
   sortingProgram.cpp
 
